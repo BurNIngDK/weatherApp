@@ -1,0 +1,19 @@
+.container {
+  padding: 60px;
+  text-align: center;
+  background: #f7ca57;
+  font-size: 30px;
+}
+
+.header {
+  color: white;
+}
+
+.search {
+  width: 50%;
+}
+
+.ant-btn-primary {
+  background-color: #525252;
+  border: none;
+}
